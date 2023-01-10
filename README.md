@@ -68,15 +68,15 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
+global.owner = ['6287896352850']
+global.premium = ['6287896352850']
+global.ownernomer = '6287896352850'
 global.ownername = 'RIY'
 global.botname = 'Chika-Md'
 global.footer = 'RIY'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/BHx0yu5DDjG2IE5ASRIOUs'
 global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
